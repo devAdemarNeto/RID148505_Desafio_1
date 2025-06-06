@@ -9,7 +9,7 @@
     color: #FFFFFF;
     padding: 40px 20px;
     text-align: left;
-    height: 200px;
+    height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -116,7 +116,7 @@ button{
     font-weight: bolder;
     cursor: pointer;
     margin-top: 40px;
-    font-size: 18px;
+    font-size: px;
 }
 
 
